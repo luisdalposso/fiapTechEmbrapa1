@@ -28,7 +28,7 @@ A API foi desenvolvida usando o framework **FastAPI**. Sua funcionalidade princi
 
 ## Diagrama de Arquitetura
 
-![Arquitetura da API](./docs/arquitetura_api.png)
+![Arquitetura da API](./images/diagrama.png)
 
 # Coleta de Dados:
 - Web Scraper ➔ Dados brutos ou CSV backup
