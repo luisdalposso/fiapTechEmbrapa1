@@ -26,6 +26,22 @@ A API foi desenvolvida usando o framework **FastAPI**. Sua funcionalidade princi
 
 ---
 
+## Diagrama de Arquitetura
+
+![Arquitetura da API](./docs/arquitetura_api.png)
+
+# Coleta de Dados:
+- Web Scraper ➔ Dados brutos ou CSV backup
+
+# Mapeamento e Processamento:
+- Alias e mapeamento de parâmetros
+
+# API:
+- Endpoints de consulta de dados
+
+# Consumo:
+- Dashboards ou integrações
+
 ## Requisitos
 
 - **Python 3.7 ou superior**
