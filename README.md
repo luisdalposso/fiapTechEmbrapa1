@@ -30,16 +30,13 @@ A API foi desenvolvida usando o framework **FastAPI**. Sua funcionalidade princi
 
 ![Arquitetura da API](./images/diagrama.png)
 
-## Coleta de Dados:
+#### Coleta de Dados:
 - Web Scraper ➔ Dados brutos ou CSV backup
-
-## Mapeamento e Processamento:
+#### Mapeamento e Processamento:
 - Alias e mapeamento de parâmetros
-
-## API:
+#### API:
 - Endpoints de consulta de dados
-
-## Consumo:
+#### Consumo:
 - Dashboards ou integrações
 
 ## Requisitos
@@ -152,6 +149,7 @@ O delimitador deve ser ;
 ├── main.py            # Código principal da API
 ├── scraping.py        # Funções de scraping e fallback CSV
 ├── requirements.txt   # Dependências do projeto
+├── images/            # Imagens utilizadas no readme
 ├── src/
 │   └── csv/           # Arquivos CSV locais
 ```
